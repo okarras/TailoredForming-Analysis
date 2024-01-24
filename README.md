@@ -1,6 +1,9 @@
 # Analysis of Tailored Forming Process Chains in Mechanical Process Engineering
 The project contains an analysis of Tailored Forming Process Chains in mechanical process engineering and is supplementary material for the paper "O. Karras et al.: *Organizing Scientific Knowledge from Engineering Sciences Using the Open Research Knowledge Graph: The Tailored Forming Process Chain Use Case*", submitted to the [Special Collection for the International Data Week and SciDataCon of the CODATA Data Science Journal](https://datascience.codata.org/collections/scidatacon).
 
+## Zenodo Release
+Zenodo link to the latest release: [![DOI](https://zenodo.org/badge/747167051.svg)](https://zenodo.org/doi/10.5281/zenodo.10562050)
+
 ## Analysis of Tailored Forming Process Chains
 This [Jupyter notebook](tailored_forming_analysis.ipynb) contains several analyses of scholarly knowledge from scientific publications on the topic of *[Tailored Forming Process Chain for the Manufacturing of Hybrid Components with Bearing Raceways Using Different Material Combinations](https://orkg.org/comparison/R187049/)* from the research field *Mechanical Process Engineering*. These analyses are based on domain-specific competency questions about the described scholarly knowledge posed by two domain experts in this research area.
 
