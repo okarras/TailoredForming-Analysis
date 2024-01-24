@@ -2,7 +2,9 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Analysis of Tailored Forming Process Chains
+title: >-
+  Analysis of Tailored Forming Process Chains in Mechanical
+  Process Engineering
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -15,6 +17,10 @@ authors:
       TIB - Leibniz Information Centre for Science and
       Technology
     orcid: 'https://orcid.org/0000-0001-5336-6899'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10562050
+    description: Latest release on Zenodo.
 repository-code: 'https://github.com/okarras/TailoredForming-Analysis'
 keywords:
   - Python
@@ -24,3 +30,6 @@ keywords:
   - Mechanical Process Engineering
   - Open Research Knowledge Graph
 license: MIT
+commit: 7bb9693
+version: v1.0
+date-released: '2024-01-24'
